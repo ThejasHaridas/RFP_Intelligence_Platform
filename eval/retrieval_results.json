@@ -1,0 +1,267 @@
+{
+  "configs": [
+    {
+      "config": "bm25-only",
+      "Recall@1": 0.633,
+      "Recall@3": 0.933,
+      "Recall@5": 0.933,
+      "Recall@10": 1.0,
+      "MRR@10": 0.764,
+      "nDCG@10": 0.825
+    },
+    {
+      "config": "dense-only",
+      "Recall@1": 0.7,
+      "Recall@3": 0.867,
+      "Recall@5": 0.933,
+      "Recall@10": 0.967,
+      "MRR@10": 0.793,
+      "nDCG@10": 0.82
+    },
+    {
+      "config": "hybrid (RRF)",
+      "Recall@1": 0.7,
+      "Recall@3": 0.933,
+      "Recall@5": 0.967,
+      "Recall@10": 1.0,
+      "MRR@10": 0.819,
+      "nDCG@10": 0.858
+    },
+    {
+      "config": "hybrid + query expansion",
+      "Recall@1": 0.7,
+      "Recall@3": 0.933,
+      "Recall@5": 0.967,
+      "Recall@10": 1.0,
+      "MRR@10": 0.818,
+      "nDCG@10": 0.856
+    },
+    {
+      "config": "hybrid + expansion + rerank",
+      "Recall@1": 0.8,
+      "Recall@3": 0.967,
+      "Recall@5": 1.0,
+      "Recall@10": 1.0,
+      "MRR@10": 0.873,
+      "nDCG@10": 0.899
+    }
+  ],
+  "per_question": {
+    "b1-01": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-02": {
+      "bm25-only": 8,
+      "dense-only": 3,
+      "hybrid (RRF)": 2,
+      "hybrid + query expansion": 3,
+      "hybrid + expansion + rerank": 2
+    },
+    "b1-03": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-04": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-05": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-06": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-07": {
+      "bm25-only": 3,
+      "dense-only": 2,
+      "hybrid (RRF)": 3,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-08": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-09": {
+      "bm25-only": 1,
+      "dense-only": 2,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 2,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-10": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-11": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-12": {
+      "bm25-only": 2,
+      "dense-only": 1,
+      "hybrid (RRF)": 2,
+      "hybrid + query expansion": 2,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-13": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-14": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b1-15": {
+      "bm25-only": 3,
+      "dense-only": null,
+      "hybrid (RRF)": 4,
+      "hybrid + query expansion": 5,
+      "hybrid + expansion + rerank": 5
+    },
+    "b1-16": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-01": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-02": {
+      "bm25-only": 7,
+      "dense-only": 5,
+      "hybrid (RRF)": 6,
+      "hybrid + query expansion": 6,
+      "hybrid + expansion + rerank": 3
+    },
+    "b2-03": {
+      "bm25-only": 3,
+      "dense-only": 2,
+      "hybrid (RRF)": 3,
+      "hybrid + query expansion": 3,
+      "hybrid + expansion + rerank": 3
+    },
+    "b2-04": {
+      "bm25-only": 2,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-05": {
+      "bm25-only": 1,
+      "dense-only": 3,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 2,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-06": {
+      "bm25-only": 3,
+      "dense-only": 1,
+      "hybrid (RRF)": 2,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 3
+    },
+    "b2-07": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-08": {
+      "bm25-only": 2,
+      "dense-only": 1,
+      "hybrid (RRF)": 2,
+      "hybrid + query expansion": 2,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-09": {
+      "bm25-only": 1,
+      "dense-only": 6,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-10": {
+      "bm25-only": 2,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 2
+    },
+    "b2-11": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-12": {
+      "bm25-only": 3,
+      "dense-only": 1,
+      "hybrid (RRF)": 2,
+      "hybrid + query expansion": 2,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-13": {
+      "bm25-only": 1,
+      "dense-only": 4,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    },
+    "b2-14": {
+      "bm25-only": 1,
+      "dense-only": 1,
+      "hybrid (RRF)": 1,
+      "hybrid + query expansion": 1,
+      "hybrid + expansion + rerank": 1
+    }
+  },
+  "meta": {
+    "questions": 30,
+    "embedder": "st:BAAI/bge-small-en-v1.5",
+    "reranker": "cross-encoder:cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "chunks": 335
+  }
+}

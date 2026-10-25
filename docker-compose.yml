@@ -1,0 +1,16 @@
+services:
+  api:
+    build: .
+    env_file: .env
+    volumes: ["./data:/app/data", "./outputs:/app/outputs", "index:/app/.index"]
+    ports: ["8000:8000"]
+    command: sh -c "python main.py index data/Bid1 data/Bid2 && python main.py serve"
+  ui:
+    build: .
+    env_file: .env
+    volumes: ["./data:/app/data", "./outputs:/app/outputs", "index:/app/.index"]
+    ports: ["8501:8501"]
+    depends_on: [api]
+    command: streamlit run rfp_intel/ui/streamlit_app.py --server.address 0.0.0.0
+volumes:
+  index:

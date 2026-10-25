@@ -1,0 +1,19 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Unit tests (parsing, search, agents with a scripted LLM)
+        run: pytest -q
+      - name: Retrieval evaluation
+        env: {OCR_ENABLED: "false"}
+        run: |
+          python main.py index data/Bid1 data/Bid2
+          python main.py eval --out eval/retrieval_results_ci.md
+      - uses: actions/upload-artifact@v4
+        with: {name: retrieval-eval, path: eval/retrieval_results_ci.*}

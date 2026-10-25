@@ -1,0 +1,966 @@
+{
+  "bid_id": "Bid1",
+  "fields": {
+    "Bid Number": {
+      "value": "JA-207652",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "E1 explicitly lists Solicitation Number: JA-207652. E1 and E47 also reference portal/sourcing number 168884 and reference number 00004079100; JA-207652 is the primary solicitation identifier."
+    },
+    "Title": {
+      "value": "Student and Staff Computing Devices SOURCING #168884",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "E1 states Title: Student and Staff Computing Devices **SOURCING #168884**. E11/E47 render it as \"Request For Proposal 168884 JA-207652 Student and Staff Computing Devices\"."
+    },
+    "Due Date": {
+      "value": "2024-07-09 14:00 CST",
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Addendum 2 (E1) sets the new due date to July 9, 2024 at 2:00 PM CST, overriding the original RFP date in E2 and the portal page date in E20. Addendum 1: Dallas ISD does not anticipate extending the submission deadline."
+    },
+    "Bid Submission Type": {
+      "value": "Electronic portal (iSupplier) preferred; sealed paper/manual submission also accepted by mail/FedEx/UPS to Procurement Services Department; no fax or email submissions accepted.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "E7 states Dallas ISD prefers online submission via iSupplier portal and manual sealed envelope submissions are accepted; E8 provides the manual submission address. Addendum 1: If responding electronically, a PDF version is not required; manual responses should have direct edits on the PDF."
+    },
+    "Term of Bid": {
+      "value": "Three (3) year initial term with two (2) successive one (1) year renewal options, not to exceed five (5) years total.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "E13 and E14 both state the initial term and renewal options. Addendum 1: Quantities will be spread over the life of the contract."
+    },
+    "Pre Bid Meeting": {
+      "value": "2024-06-10 14:00 CST via TEAMS video conference; attendance not mandatory (highly encouraged).",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "E2 states the pre-proposal meeting on June 10, 2024 at 2:00 PM CST via TEAMS; attendance is highly encouraged but not mandatory. Portal page E18/E20 lists 03:00 PM EDT, a different time zone rendering."
+    },
+    "Installation": {
+      "value": "Required: White glove deployment services including software installation (Autopilot for Windows, Google Management enrollment for Chromebooks), asset tagging/etching, device deployment and setup, asset control reporting, and delivery to varied locations.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 7
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "E21 requires white glove services; E22 lists deployment services; E23 confirms imaging/software installation requirements; E25 requires detailed deployment plans. Addendum 1: No requirement to secure desktops under or on a surface (e.g., lockbox). Addendum 1: Awarded vendor must coordinate a schedule of deliveries with the Dallas ISD ED TECH department."
+    },
+    "Bid Bond Requirement": {
+      "value": "Not required",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 17
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "E12 and E13 contain only generic boilerplate requiring compliance with any bid bond requirements \"noted elsewhere,\" but no specific bid bond amount or percentage is stated in the evidence. E15 addresses insurance/bond certificates generally without setting a bid bond amount."
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "Not found in documents. No specific required delivery date or window is stated; delivery occurs only after receipt of a formal Purchase Order and is scheduled per project (E6, E27, E28). Addendum 1: Vendors are not required to keep inventory in stock; must meet deadline for agreed delivery."
+    },
+    "Payment Terms": {
+      "value": "Not specified",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 58
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 51
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 57
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 51
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 55
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 57
+        }
+      ],
+      "confidence": 0.8,
+      "notes": "The evidence passages contain subcontractor payment timing (e.g., 10 days) and tax/withholding form content, but no district-to-vendor payment terms such as Net 30 are stated."
+    },
+    "Any Additional Documentation Required": {
+      "value": [
+        "FORM 1295 - Certificate of Interested Parties",
+        "MWBE Forms",
+        "W-9 Form",
+        "Certificate of Insurance/Bond",
+        "Identification Badge(s) / Background Check documentation",
+        "Subcontractor Information Forms"
+      ],
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 14
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 17
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 11
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 33
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 16
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "E3 requires Form 1295 attached to bid response; E23 (Addendum 1) confirms Form 1295 is submitted with the RFP response. E25 lists MWBE Forms and W-9 Form as required attachments. E15 requires certificate of insurance/bond. E26 addresses identification badges/background checks. E24 covers subcontractor forms. Addendum 1: Form 1295 (Certificate of Interested Parties) should be submitted with the RFP response."
+    },
+    "MFG for Registration": {
+      "value": "Not specified",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3
+        }
+      ],
+      "confidence": 0.9,
+      "notes": "E27 and E28 require OEM/current-model equipment and factory-authorized certifications for resellers, but no specific manufacturer name is stated."
+    },
+    "Contract or Cooperative to use": {
+      "value": [
+        "Educational Purchasing Cooperative of North Texas (EPCNT)",
+        "Central Texas Purchasing Alliance (CTPA)"
+      ],
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 20
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 19
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "E38 references EPCNT interlocal agreement; E35 references CTPA. E36 states Piggyback Contract: No. Participation appears optional via yes/no response rather than a mandatory contract vehicle."
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "Product": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "contact_info": {
+      "value": "ALZATE, JASMINE | JALZATE@dallasisd.org | (972)925-4100",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "E11 lists Buyer ALZATE, JASMINE and Email JALZATE@dallasisd.org. E47 lists the Purchasing Department phone (972)925-4100; no separate direct phone for the buyer is provided."
+    },
+    "company_name": {
+      "value": "Dallas Independent School District",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "E1 lists Issuing Organization: Dallas Independent School District. E11 and E47 also reference Dallas ISD / Purchasing Department."
+    },
+    "Product Specification": {
+      "value": null,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        },
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. Addendum 1: USB 3.1 is a minimum requirement for non-touch display monitors. Addendum 1: A higher USB specification than 3.2 is permissible for display monitors. Addendum 1: Etching required only on laptops, not on stand-alone monitors or AIO computers. Addendum 1: Minimum warranty requirement: one year for student Chromebooks and three years for student and staff Windows laptops. Addendum 1: All warranties must be made by the OEM. Addendum 1: Dallas ISD will not ask for Accidental Damage Protection for purchased devices. Addendum 1: The 'response value' field should include the proposed make and model of the device. Addendum 1: Hot swap is only for when warranty work will be longer than 5 business days. Addendum 1: DISD has a Volume License Agreement with Microsoft. Addendum 1: AIO Desktops require a webcam. Addendum 1: All warranty options need to be official manufacturer warranties. Addendum 1: Additional warranty programs can be included as additional pricing in the attachments section. Addendum 1: Both etching and asset tagging are required for each device. Addendum 1: For Windows devices, autopilot is required; for Chromebooks, enrollment in Google Management is required. Addendum 1: Battery life measurement will be based on the manufacturer's specifications. Addendum 1: 65w chargers are a minimum requirement for Chrome devices. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error. Addendum 1: USB 3.1 is a minimum requirement for non-touch display monitors. Addendum 1: A higher USB specification than 3.2 is permissible for display monitors. Addendum 1: Etching required only on laptops, not on stand-alone monitors or AIO computers. Addendum 1: Minimum warranty requirement: one year for student Chromebooks and three years for student and staff Windows laptops. Addendum 1: All warranties must be made by the OEM. Addendum 1: Dallas ISD will not ask for Accidental Damage Protection for purchased devices. Addendum 1: The 'response value' field should include the proposed make and model of the device. Addendum 1: Hot swap is only for when warranty work will be longer than 5 business days. Addendum 1: DISD has a Volume License Agreement with Microsoft. Addendum 1: AIO Desktops require a webcam. Addendum 1: All warranty options need to be official manufacturer warranties. Addendum 1: Additional warranty programs can be included as additional pricing in the attachments section. Addendum 1: Both etching and asset tagging are required for each device. Addendum 1: For Windows devices, autopilot is required; for Chromebooks, enrollment in Google Management is required. Addendum 1: Battery life measurement will be based on the manufacturer's specifications. Addendum 1: 65w chargers are a minimum requirement for Chrome devices."
+    },
+    "Bid Summary": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "summary failed: qa_report.summary: LLM call failed: Connection error. | VALIDATION FAILED:"
+    }
+  },
+  "addendum_changes": [
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "USB 3.1 is a minimum requirement for non-touch display monitors.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "A higher USB specification than 3.2 is permissible for display monitors.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "RFP anticipated to be awarded at the August board meeting.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "Dallas ISD anticipates requesting quotes for different projects from awarded vendors starting in September 2024.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Etching required only on laptops, not on stand-alone monitors or AIO computers.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Minimum warranty requirement: one year for student Chromebooks and three years for student and staff Windows laptops.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "All warranties must be made by the OEM.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Dallas ISD will not ask for Accidental Damage Protection for purchased devices.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "The 'response value' field should include the proposed make and model of the device.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Due Date",
+      "change_type": "clarification",
+      "description": "Dallas ISD does not anticipate extending the submission deadline.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "References will be contacted within the week following the solicitation due date.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Installation",
+      "change_type": "clarification",
+      "description": "No requirement to secure desktops under or on a surface (e.g., lockbox).",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Delivery Date",
+      "change_type": "clarification",
+      "description": "Vendors are not required to keep inventory in stock; must meet deadline for agreed delivery.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "A local location is not required for the awarded vendor.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Installation",
+      "change_type": "clarification",
+      "description": "Awarded vendor must coordinate a schedule of deliveries with the Dallas ISD ED TECH department.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Hot swap is only for when warranty work will be longer than 5 business days.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "References do not need to be from districts/companies within the Dallas/Fort Worth Area; no proximity/mileage requirement.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Term of Bid",
+      "change_type": "clarification",
+      "description": "Quantities will be spread over the life of the contract.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "DISD has a Volume License Agreement with Microsoft.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "AIO Desktops require a webcam.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "The 'Bid Minimum Release Amount' is a system default field and can be disregarded.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "Submit a minimum price for warranty line items and attach additional pricing if it differs between tiers or devices.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "Submit a minimum price for deployment services line items and attach additional pricing if it differs.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "Line 14 can include the minimum discount percentage offered; an attachment can address different tiers.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "All warranty options need to be official manufacturer warranties.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Additional warranty programs can be included as additional pricing in the attachments section.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Both etching and asset tagging are required for each device.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Any Additional Documentation Required",
+      "change_type": "clarification",
+      "description": "Form 1295 (Certificate of Interested Parties) should be submitted with the RFP response.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Bid Submission Type",
+      "change_type": "clarification",
+      "description": "If responding electronically, a PDF version is not required; manual responses should have direct edits on the PDF.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "For Windows devices, autopilot is required; for Chromebooks, enrollment in Google Management is required.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "Battery life measurement will be based on the manufacturer's specifications.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": null,
+      "change_type": "clarification",
+      "description": "Samples will only be required from awarded vendors when ready to purchase large quantities.",
+      "old_value": null,
+      "new_value": null,
+      "applied": false,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "addendum": 1,
+      "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Product Specification",
+      "change_type": "clarification",
+      "description": "65w chargers are a minimum requirement for Chrome devices.",
+      "old_value": null,
+      "new_value": null,
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "addendum": 2,
+      "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "field": "Due Date",
+      "change_type": "modified",
+      "description": "Extended the RFP due date from the original deadline to July 9, 2024 at 2:00 PM CST.",
+      "old_value": null,
+      "new_value": "2024-07-09 14:00 CST",
+      "applied": true,
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "passed": 14,
+    "failed": 5,
+    "not_found": 1
+  },
+  "run": {
+    "run_id": "1b66278766f4",
+    "plan": [
+      {
+        "step": "ingest",
+        "agent": "ingestion",
+        "status": "done",
+        "detail": "unchanged: 4 docs, 299 chunks"
+      },
+      {
+        "step": "retrieve",
+        "agent": "retrieval",
+        "status": "done",
+        "detail": "114 passages"
+      },
+      {
+        "step": "extract",
+        "agent": "extraction.*",
+        "status": "done",
+        "detail": ""
+      },
+      {
+        "step": "addenda",
+        "agent": "addendum_reconciliation",
+        "status": "done",
+        "detail": "34 changes"
+      },
+      {
+        "step": "reconcile",
+        "agent": "addendum_reconciliation",
+        "status": "done",
+        "detail": "24 applied"
+      },
+      {
+        "step": "validate",
+        "agent": "validator",
+        "status": "done",
+        "detail": "4 failed"
+      },
+      {
+        "step": "retry_failed",
+        "agent": "orchestrator",
+        "status": "done",
+        "detail": "4 still failing"
+      },
+      {
+        "step": "report",
+        "agent": "qa_report",
+        "status": "done",
+        "detail": ""
+      }
+    ],
+    "errors": [
+      "critic unavailable: validator: LLM call failed: Connection error."
+    ],
+    "retries": {
+      "Model_no": 2,
+      "Part_no": 2,
+      "Product": 2,
+      "Product Specification": 2
+    },
+    "events": 168,
+    "llm_calls": 4,
+    "llm_cache_hits": 4,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "est_cost_usd": 0.0
+  }
+}

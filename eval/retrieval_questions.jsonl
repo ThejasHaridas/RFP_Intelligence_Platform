@@ -1,0 +1,30 @@
+{"id": "b1-01", "bid_id": "Bid1", "question": "What is the solicitation number for the student and staff computing devices bid?", "file": "BidNet", "phrases": ["Solicitation Number: JA-207652"]}
+{"id": "b1-02", "bid_id": "Bid1", "question": "What was the original solicitation due date and time?", "file": "FINAL", "phrases": ["Solicitation Due 27-JUN-2024"]}
+{"id": "b1-03", "bid_id": "Bid1", "question": "What is the new due date after the addendum extension?", "file": "Addendum 2", "phrases": ["new due date"]}
+{"id": "b1-04", "bid_id": "Bid1", "question": "When is the pre-proposal meeting and is it virtual?", "file": "FINAL", "phrases": ["pre-proposal meeting will be held"]}
+{"id": "b1-05", "bid_id": "Bid1", "question": "What is the length of the contract and how many renewals are allowed?", "file": "FINAL", "phrases": ["three (3) year agreement", "Renewal 1"]}
+{"id": "b1-06", "bid_id": "Bid1", "question": "What minimum warranty is required for student Chromebooks and Windows laptops?", "file": "", "phrases": ["one-year warranty for student Chromebooks", "Warranty: 1-year minimum"]}
+{"id": "b1-07", "bid_id": "Bid1", "question": "What deployment or installation services are required?", "file": "FINAL", "phrases": ["white glove services"]}
+{"id": "b1-08", "bid_id": "Bid1", "question": "How should proposals be submitted, electronically or on paper?", "file": "FINAL", "phrases": ["iSupplier portal", "sealed envelope"]}
+{"id": "b1-09", "bid_id": "Bid1", "question": "Which purchasing cooperative or interlocal agreement can use this contract?", "file": "FINAL", "phrases": ["Educational Purchasing Cooperative of North Texas", "Central Texas Purchasing Alliance"]}
+{"id": "b1-10", "bid_id": "Bid1", "question": "Which forms must be attached to the submission, such as the W9 and MWBE forms?", "file": "FINAL", "phrases": ["W9 Form completed", "MWBE Forms must be completed"]}
+{"id": "b1-11", "bid_id": "Bid1", "question": "What is the target quantity for the Tier 1 Small Student Chromebook evaluation pricing line?", "file": "FINAL", "phrases": ["50,000"]}
+{"id": "b1-12", "bid_id": "Bid1", "question": "What are the minimum requirements for the Tier 3 Student Windows Laptop?", "file": "FINAL", "phrases": ["Intel i5 13th Gen", "Tier 3 Student Windows Laptop Minimum Requirements"]}
+{"id": "b1-13", "bid_id": "Bid1", "question": "Who is the buyer and what is the procurement contact email?", "file": "", "phrases": ["JALZATE@dallasisd.org", "ProcurementCS@dallasisd.org"]}
+{"id": "b1-14", "bid_id": "Bid1", "question": "Does the district require laser etching on monitors or all-in-one computers?", "file": "Addendum 1", "phrases": ["only require etching on Laptops"]}
+{"id": "b1-15", "bid_id": "Bid1", "question": "Is a bid bond or insurance required for this RFP?", "file": "FINAL", "phrases": ["insurance, bid bond, or liability requirements", "INSURANCE AND/OR BONDS"]}
+{"id": "b1-16", "bid_id": "Bid1", "question": "Will accidental damage protection be required on purchased devices?", "file": "Addendum 1", "phrases": ["will not ask for Accidental Damage Protection"]}
+{"id": "b2-01", "bid_id": "Bid2", "question": "What is the PORFP number for the Dell laptop purchase?", "file": "PORFP", "phrases": ["#E20P4600040"]}
+{"id": "b2-02", "bid_id": "Bid2", "question": "When are proposals due for the Dell laptops bid?", "file": "", "phrases": ["PROPOSAL DUE", "Closing Date: 06/10/2024"]}
+{"id": "b2-03", "bid_id": "Bid2", "question": "How must bids be submitted for the Dell laptop PORFP?", "file": "PORFP", "phrases": ["eMaryland Marketplace Advantage"]}
+{"id": "b2-04", "bid_id": "Bid2", "question": "What is the required delivery timeframe after award?", "file": "PORFP", "phrases": ["Delivery within 45 days of Award"]}
+{"id": "b2-05", "bid_id": "Bid2", "question": "What are the invoicing and payment instructions?", "file": "PORFP", "phrases": ["STOaccountspayable"]}
+{"id": "b2-06", "bid_id": "Bid2", "question": "What extended warranty is required for the laptops?", "file": "PORFP", "phrases": ["Dell Limited Hardware Warranty Extended"]}
+{"id": "b2-07", "bid_id": "Bid2", "question": "What is the SKU of the Dell Latitude 5550 XCTO Base?", "file": "Specs", "phrases": ["210-BLYZ"]}
+{"id": "b2-08", "bid_id": "Bid2", "question": "What processor and memory does the Latitude 5550 configuration include?", "file": "Specs", "phrases": ["Intel Core Ultra 5 125U processor"]}
+{"id": "b2-09", "bid_id": "Bid2", "question": "Which affidavit must the master contractor provide?", "file": "PORFP", "phrases": ["must provide a Mercury Affidavit"]}
+{"id": "b2-10", "bid_id": "Bid2", "question": "Who is the agency point of contact and their phone number?", "file": "", "phrases": ["Tamaira Hawkins"]}
+{"id": "b2-11", "bid_id": "Bid2", "question": "Which master contract must bidders be awarded under to be eligible?", "file": "PORFP", "phrases": ["060B5400007"]}
+{"id": "b2-12", "bid_id": "Bid2", "question": "What docking station model is requested and in what quantity?", "file": "", "phrases": ["WD22TB4"]}
+{"id": "b2-13", "bid_id": "Bid2", "question": "Must the vendor be an authorized reseller for the manufacturer?", "file": "PORFP", "phrases": ["authorized reseller for Dell"]}
+{"id": "b2-14", "bid_id": "Bid2", "question": "Is this a small business reserve procurement?", "file": "PORFP", "phrases": ["Small Business Reserve"]}

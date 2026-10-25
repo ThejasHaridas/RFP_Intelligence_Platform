@@ -1,0 +1,15 @@
+# Sample questions for the Q&A log (python main.py qa-log eval/qa_questions.txt)
+What is the submission deadline for Bid1 after all addendums?
+Which affidavits are required for the Dell laptop bid?
+Compare the warranty requirements of both bids.
+Is a bid bond required, and if so, how much?
+What changed in Addendum 2 compared to the original RFP?
+How must proposals be submitted for the Dell laptop bid?
+What is the delivery requirement for the Dell laptops after award?
+Who is the procurement contact for the Dallas ISD computing devices RFP?
+What are the minimum specifications for the Tier 3 Student Windows Laptop?
+Which cooperative purchasing programs can piggyback on the Dallas ISD contract?
+What is the SKU of the Dell Latitude 5550 base unit and what processor does it use?
+When and where is the pre-proposal meeting for Bid1, and is attendance mandatory?
+What are the invoicing instructions for the Maryland State Treasurer's Office bid?
+Does Dallas ISD require accidental damage protection or laser etching on monitors?

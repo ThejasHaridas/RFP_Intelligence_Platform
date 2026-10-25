@@ -1,0 +1,212 @@
+{
+  "bid_id": "Bid2",
+  "fields": {
+    "Bid Number": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Title": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Due Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.dates_logistics: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.dates_logistics: LLM call failed: Connection error."
+    },
+    "Bid Submission Type": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.dates_logistics: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.dates_logistics: LLM call failed: Connection error."
+    },
+    "Term of Bid": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.dates_logistics: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.dates_logistics: LLM call failed: Connection error."
+    },
+    "Pre Bid Meeting": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.dates_logistics: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.dates_logistics: LLM call failed: Connection error."
+    },
+    "Installation": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.dates_logistics: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.dates_logistics: LLM call failed: Connection error."
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.dates_logistics: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.dates_logistics: LLM call failed: Connection error."
+    },
+    "Payment Terms": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Any Additional Documentation Required": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "MFG for Registration": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Contract or Cooperative to use": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "Product": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "contact_info": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "company_name": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.commercial_legal: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.commercial_legal: LLM call failed: Connection error."
+    },
+    "Product Specification": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "extraction failed: extraction.product_specs: LLM call failed: Connection error. | VALIDATION FAILED: extraction_ok: extraction failed: extraction.product_specs: LLM call failed: Connection error."
+    },
+    "Bid Summary": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "insufficient extracted data for a summary"
+    }
+  },
+  "addendum_changes": [],
+  "validation": {
+    "passed": 0,
+    "failed": 19,
+    "not_found": 1
+  },
+  "run": {
+    "run_id": "4cc3359645d3",
+    "plan": [
+      {
+        "step": "ingest",
+        "agent": "ingestion",
+        "status": "done",
+        "detail": "unchanged: 5 docs, 36 chunks"
+      },
+      {
+        "step": "retrieve",
+        "agent": "retrieval",
+        "status": "done",
+        "detail": "114 passages"
+      },
+      {
+        "step": "extract",
+        "agent": "extraction.*",
+        "status": "done",
+        "detail": ""
+      },
+      {
+        "step": "addenda",
+        "agent": "addendum_reconciliation",
+        "status": "done",
+        "detail": "0 changes"
+      },
+      {
+        "step": "reconcile",
+        "agent": "addendum_reconciliation",
+        "status": "done",
+        "detail": "0 applied"
+      },
+      {
+        "step": "validate",
+        "agent": "validator",
+        "status": "done",
+        "detail": "19 failed"
+      },
+      {
+        "step": "retry_failed",
+        "agent": "orchestrator",
+        "status": "done",
+        "detail": "19 still failing"
+      },
+      {
+        "step": "report",
+        "agent": "qa_report",
+        "status": "done",
+        "detail": ""
+      }
+    ],
+    "errors": [],
+    "retries": {
+      "Bid Number": 2,
+      "Title": 2,
+      "Due Date": 2,
+      "Bid Submission Type": 2,
+      "Term of Bid": 2,
+      "Pre Bid Meeting": 2,
+      "Installation": 2,
+      "Bid Bond Requirement": 2,
+      "Delivery Date": 2,
+      "Payment Terms": 2,
+      "Any Additional Documentation Required": 2,
+      "MFG for Registration": 2,
+      "Contract or Cooperative to use": 2,
+      "Model_no": 2,
+      "Part_no": 2,
+      "Product": 2,
+      "contact_info": 2,
+      "company_name": 2,
+      "Product Specification": 2
+    },
+    "events": 328,
+    "llm_calls": 0,
+    "llm_cache_hits": 0,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "est_cost_usd": 0.0
+  }
+}

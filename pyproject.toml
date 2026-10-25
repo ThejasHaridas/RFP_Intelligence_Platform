@@ -1,0 +1,13 @@
+[project]
+name = "rfp-intel"
+version = "1.0.0"
+description = "RFP Intelligence Platform: hybrid RAG search engine + multi-agent bid extraction"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.setuptools.packages.find]
+include = ["rfp_intel*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
